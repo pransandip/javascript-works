@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "javascript-first-project",
+  "version": "1.0.0",
+  "description": "starter project intro to javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pransandip/javascript-works.git"
+  },
+  "author": "SANDY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pransandip/javascript-works/issues"
+  },
+  "homepage": "https://github.com/pransandip/javascript-works#readme"
+}

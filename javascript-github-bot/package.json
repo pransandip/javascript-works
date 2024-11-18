@@ -1,0 +1,25 @@
+{
+  "name": "javascript-github-bot",
+  "version": "1.0.0",
+  "description": "educational and testing and research purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pransandip/javascript-github-bot.git"
+  },
+  "author": "Sandy Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pransandip/javascript-github-bot/issues"
+  },
+  "homepage": "https://github.com/pransandip/javascript-github-bot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.3",
+    "random": "^3.0.6",
+    "simple-git": "^3.16.0"
+  }
+}

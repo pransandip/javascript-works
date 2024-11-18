@@ -1,0 +1,23 @@
+Note: 1st step 'npm init' then data.json file created
+  
+Note: To write data in this file by this program we need npm package called "jsonfile"
+      --> npm i jsonfile (https://www.npmjs.com/package/jsonfile)
+
+Note: 3rd step we need to write something to that file lets write timestamp value for that we need
+      a npm package called "moment" 
+      *A JavaScript date library for parsing, validating, manipulating, and formatting dates.
+      --> npm i moment (https://www.npmjs.com/package/moment)
+
+Note: 4th step taking a moment method and formating it generating timestamp
+
+
+Note: 5th step converting timestamp data to JavaScript obj and writing it on that data.json file
+
+
+Note: 6th step now to commit this file i need a package called "Simple git" 
+      *A lightweight interface for running git commands in any node.js application.
+      --> npm i simple-git (https://www.npmjs.com/package/simple-git)
+
+Note: 7th step now to commit to the back date we need to change time stamp with '--date' parameter
+
+Note: 

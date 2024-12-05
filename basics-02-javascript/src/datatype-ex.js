@@ -29,3 +29,9 @@ console.log(func(1, 2, 3));
 let myNum = +"321";
 console.log(typeof myNum);
 console.log(myNum);
+
+// BigInt
+console.log(Number.MAX_SAFE_INTEGER);
+
+let num2 = BigInt(123456789123456789123456789);
+console.log(num2);
